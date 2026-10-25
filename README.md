@@ -6,7 +6,9 @@ Autodesk Inventor 2026 Professional running under Wine 11.4 on Linux. WineHQ rat
 
 This is believed to be the first instance of Inventor running on Linux.
 
-** UPDATE: Harvi564 has forked this and is closing in quickly on a full inventor experience! Go check their project here: https://github.com/Harvi654/Autodesk-Inventor-for-Linux/tree/main **
+---
+
+**UPDATE: Harvi564 has forked this and is closing in quickly on a full inventor experience! Go check their project here: https://github.com/Harvi654/Autodesk-Inventor-for-Linux/tree/main**
 
 ---
 
